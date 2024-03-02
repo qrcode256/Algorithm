@@ -10,3 +10,5 @@
 | Search in Rotated Sorted Array                | Medium  |   [https://leetcode.com/problems/search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)   |
 | 3Sum                                          | Medium  |   [https://leetcode.com/problems/3sum](https://leetcode.com/problems/3sum) |
 | Container With Most Water                     | Medium  |   [https://leetcode.com/problems/container-with-most-water](https://leetcode.com/problems/container-with-most-water)    |
+
+Leet code similar problems: [https://leetcode.com/tag/array/](https://leetcode.com/tag/array/)
