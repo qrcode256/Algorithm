@@ -15,3 +15,11 @@
 
 
 Leet code similar problems: https://leetcode.com/tag/dynamic-programming
+
+https://leetcode.com/list/55ajm50i/
+
+https://leetcode.com/list/55ac4kuc/
+
+https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns#Minimum-(Maximum)-Path-to-Reach-a-Target
+
+https://leetcode.com/discuss/general-discussion/1125779/Dynamic-programming-on-subsets-with-examples-explained
