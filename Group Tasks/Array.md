@@ -1,0 +1,26 @@
+| TITLE                                         | LEVEL     | TAGS  | SOURCE | COMPLETED | SOLUTION |
+| -----                                         | ----      | ----  | ------ | --------- |  --- |
+| Two Sum                                       | Easy      |  `Array` `Hash Table`                             | https://leetcode.com/problems/two-sum                              |  ✅  | [ 👀 ](https://www.youtube.com/watch?v=KLlXCFG5TnA)   |
+| Valid Anagram                                 | Easy      |  ---                                              | ---                                                                |      | [ 👀 ](https://www.youtube.com/watch?v=9UtInBqnCgA) |
+| Best Time to Buy and Sell Stock               | Easy      |  `Array` `Dynamic Programming`                    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock      |  ✅  | [ 👀 ](https://www.google.com)   |
+| Best Time to Buy and Sell Stock II            | Medium    |  `Array` `Dynamic Programming` `Greedy`           | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii   |      | [ 👀 ](https://www.google.com)    |
+| Best Time to Buy and Sell Stock III           | Hard      |  `Array` `Dynamic Programming`                    | https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii  |      | [ 👀 ](https://www.google.com)    |
+| Contains Duplicate                            | Easy      |  `Array` `Hash Table` `Sorting`                   | https://leetcode.com/problems/contains-duplicate                   |      | [ 👀 ](https://www.youtube.com/watch?v=3OamzN90kPg)    |
+| Contains Duplicate II                         | Easy      |  `Array` `Hash Table` `Sliding Window`            | https://leetcode.com/problems/contains-duplicate-ii                |  ✅  | [ 👀 ](https://www.google.com)  |
+| Contains Duplicate III                        | Hard      |  `Array` `Sliding Window` `Sorting` `Bucket Sort` `Ordered Set` | https://leetcode.com/problems/contains-duplicate-iii |      | [ 👀 ](https://www.google.com)    |
+| Product of Array Except Self                  | Medium    |  `Array` `Prefix Sum`                             | https://leetcode.com/problems/product-of-array-except-self         |  ✅  | [ 👀 ](https://www.youtube.com/watch?v=bNvIQI2wAjk)    |
+| Maximum Subarray                              | Medium    |  `Array` `Divide and Conquer` `Dynamic Programming`     | https://leetcode.com/problems/maximum-subarray               |  ✅  | [ 👀 ](https://www.google.com)    |
+| Maximum Product Subarray                      | Medium    |  `Array` `Dynamic Programming`                    | https://leetcode.com/problems/maximum-product-subarray             |      | [ 👀 ](https://www.google.com)    |
+| Find Minimum in Rotated Sorted Array          | Medium    |  `Array` `Binary Search`                          | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array |      | [ 👀 ](https://www.google.com)    |
+| Search in Rotated Sorted Array                | Medium    |  `Array` `Binary Search`                          | https://leetcode.com/problems/search-in-rotated-sorted-array       |  ✅  | [ 👀 ](https://www.google.com)    |
+| 3Sum                                          | Medium    |  `Array` `Two Pointers` `Sorting`                 | https://leetcode.com/problems/3sum                                 |      | [ 👀 ](https://www.google.com)    |
+| Container With Most Water                     | Medium    |  `Array` `Two Pointers` `Greedy`                  | https://leetcode.com/problems/container-with-most-water            |  ✅  | [ 👀 ](https://www.google.com)    |
+| Missing Ranges 🔒                             | Easy      |                                                   | https://leetcode.com/problems/missing-ranges                       |      | [ 👀 ](https://www.youtube.com/watch?v=NVLEC6RcMxw)  |
+| Group Anagrams                                | Medium    |  `Array` `Hash Table` `String` `Sorting`          | https://leetcode.com/problems/group-anagrams                       |  ✅  | [ 👀 ](https://www.youtube.com/watch?v=vzdNOK2oB2E)  |
+| Top K Frequent Elements                       | Medium    |                                                   | https://leetcode.com/problems/top-k-frequent-elements/description/ |  ✅  | [ 👀 ](https://www.youtube.com/watch?v=YPTqKIgVk-k)  |   
+| Valid Sudoku                                  | Medium    |                                                   | https://leetcode.com/problems/valid-sudoku/                        |  ✅  | [ 👀 ](https://www.youtube.com/watch?v=YPTqKIgVk-k)  |            
+| Encode and Decode Strings 🔒                  | Medium    |                                                   | https://leetcode.com/problems/encode-and-decode-strings/           |      | [ 👀 ](https://www.youtube.com/watch?v=B1k_sxOSgv8)  |
+| Longest Consecutive Sequence                  | Medium    |                                                   | https://leetcode.com/problems/longest-consecutive-sequence/        |  ✅  | [ 👀 ](https://www.youtube.com/watch?v=P6RZZMu_maU)  |
+
+
+Leet code similar problems: https://leetcode.com/tag/array/
