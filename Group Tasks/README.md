@@ -39,3 +39,6 @@ https://leetcode.com/discuss/general-discussion/1041234/Become-LeetCode's-pick!-
 
 Need to check and reArraynge
 https://www.youtube.com/playlist?list=PLS8PbOn9RWT4bHaZ7Z4ieg48NGqivOwW0
+
+
+https://github.com/neetcode-gh/leetcode/blob/main/javascript/0217-contains-duplicate.js
