@@ -1,4 +1,6 @@
 ## Details
+[Source](https://www.geeksforgeeks.org/bucket-sort-2/)
+
 Bucket sort as bin sort, is a sorting algorithm that divides elements into several buckets. The buckets are then sorted one at a time using a different sorting algorithm or by recursively use the bucket sorting. **Mostly used to sort ditigs**
 
 The bucket sort method:
