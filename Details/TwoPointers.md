@@ -22,7 +22,7 @@ Two pointers is really an easy and effective technique that is typically used fo
 Given a sorted array A (sorted in ascending order), having N integers, find if there exists any pair of elements (A[i], A[j]) such that their sum is equal to X.
 
 
-
+_____________________________________________
 
 ### **Example 1**: Sum Exists in an Array
 
@@ -84,7 +84,7 @@ We keep moving these pointers until we get the sum that matches the target value
 
 
 
-
+_____________________________________________
 
 ### **Example 2**: Rotate Array k Steps
 
@@ -125,7 +125,7 @@ Specifically, we first reverse all the elements of the array. Then, we reverse t
 
 
 
-
+_____________________________________________
 
 ### **Example 3**: Middle Element in a LinkedList
 
@@ -156,7 +156,7 @@ Problem: Given a singly LinkedList, find its middle element. For example, if our
 
 
 
-
+_____________________________________________
 
 ### **Example 4**: Find all triplets with zero sum
 
