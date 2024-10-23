@@ -1,0 +1,1 @@
+    Information About algorithm in array
