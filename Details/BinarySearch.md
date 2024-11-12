@@ -20,6 +20,27 @@ function binarySearch(nums, lower, higher, target) {
 
 ```
 
+Another example: 
+```javascript
+
+// find first element greater than target
+function binarySearch(nums, lower, higher, target) {
+    while (lower < higher) {
+        let mid = (lower + higher) >>> 1;
+
+        if (nums[mid] > target) {
+            higher = mid;
+        } else {
+            lower = mid + 1;
+        }
+    }
+
+    return lower;
+}
+
+```
+
+
 _____________________________________________
 
 ### **Example 1**: Sum Exists in an Array
