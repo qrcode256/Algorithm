@@ -24,7 +24,10 @@ Another example:
 ```javascript
 
 // find first element greater than target
-function binarySearch(nums, lower, higher, target) {
+function binarySearch(nums, target) {
+    let lower = 0;
+    let higher = nums.length - 1;
+
     while (lower < higher) {
         let mid = (lower + higher) >>> 1;
 
@@ -39,7 +42,28 @@ function binarySearch(nums, lower, higher, target) {
 }
 
 ```
+Binary search to insert element into array:
 
+```javascript
+function binarySearch(nums, target) {
+    let lower = 0;
+    let higher = nums.length - 1;
+
+    while (lower <= higher) {
+        let mid = (lower + higher) >>> 1;
+
+        if (nums[mid] === target) {
+            return mid;
+        } else if (nums[mid] > target){
+            higher = mid - 1;
+        } else {
+            lower = mid + 1;
+        }
+    }
+
+    return lower;
+}
+```
 
 _____________________________________________
 
